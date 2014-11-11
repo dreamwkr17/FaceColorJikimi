@@ -275,7 +275,7 @@ public class Menu1_Camera_Activity extends Activity implements OnClickListener {
 			myMidPoint = new PointF();
 			face.getMidPoint(myMidPoint);
 			eyesDistance = face.eyesDistance();
-			
+			 //dd
 			
 			left_recX = (int) (myMidPoint.x - eyesDistance);
 			left_recY = (int) (myMidPoint.y + 20);
