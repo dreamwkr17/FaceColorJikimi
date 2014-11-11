@@ -28,7 +28,7 @@ import android.widget.ListView;
  * menu3 _ 안색분석 히스토리
  *
  */
-public class HistoryActivity extends Activity {
+public class Menu3_HistoryActivity extends Activity {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {

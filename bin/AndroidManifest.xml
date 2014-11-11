@@ -25,7 +25,7 @@
         <activity android:name="org.androidtown.ui.relativelayout.Menu1_Activity" />
         <activity android:name="org.androidtown.ui.relativelayout.Menu1_Camera" />
           <activity android:name="org.androidtown.ui.relativelayout.Menu2_Activity" />
-            <activity android:name="org.androidtown.ui.relativelayout.HistoryActivity" />
+            <activity android:name="org.androidtown.ui.relativelayout.Menu3_HistoryActivity" />
               <activity android:name="org.androidtown.ui.relativelayout.ResultActivity" />
       
        

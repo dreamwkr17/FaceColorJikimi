@@ -51,7 +51,7 @@ public class MainActivity extends Activity {
         ImageButton button03 = (ImageButton) findViewById(R.id.button03);
         button03.setOnClickListener(new OnClickListener() {
         	public void onClick(View v) {
-        		Intent intent = new Intent(MainActivity.this, HistoryActivity.class);
+        		Intent intent = new Intent(MainActivity.this, Menu3_HistoryActivity.class);
 				startActivity(intent);
 				finish();
 			        	}
