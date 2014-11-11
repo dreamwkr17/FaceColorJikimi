@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/face_info_background"
+     android:paddingTop="100dp" >
+
+    	<ImageButton
+		android:id="@+id/redface"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#00000000"
+		android:layout_weight="1"
+		android:adjustViewBounds="true"
+		android:src="@drawable/red_button"
+		android:scaleType="fitXY"		
+	/>
+
+<ImageButton
+		android:id="@+id/orangeface"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#00000000"
+		android:layout_weight="1"
+		android:adjustViewBounds="true"
+		android:src="@drawable/orange_button"
+		android:scaleType="fitXY"		
+	/>
+<ImageButton
+		android:id="@+id/whieface"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#00000000"
+		android:layout_weight="1"
+		android:adjustViewBounds="true"
+		android:src="@drawable/white_button"
+		android:scaleType="fitXY"		
+	/>
+	
+
+	<ImageButton
+		android:id="@+id/blackface"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#00000000"
+		android:layout_weight="1"
+		android:adjustViewBounds="true"
+		android:src="@drawable/black_button"
+		android:scaleType="fitXY"		
+	/>
+	
+	
+	<ImageButton
+		android:id="@+id/greenface"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#00000000"
+		android:layout_weight="1"
+		android:adjustViewBounds="true"
+		android:src="@drawable/cyan_button"
+		android:scaleType="fitXY"		
+	/>
+	
+</LinearLayout>
